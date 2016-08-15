@@ -1,4 +1,6 @@
 typography_spectrum: 0.9532820594031364
+content_rating:
+  adult: false
 color:
   brandStrength: 0.84060477046296
   lightness: 0.1257604246493429
@@ -11,10 +13,16 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.8930590462405235
+author:
+  name: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc9a96e1-8a70-4e40-8f19-0be13d000e41.jpg
 name: ZebblyZabzYT
 navigation:
   - name: My YouTube Channel
     url: 'https://www.youtube.com/channel/UC_5pwZTa9MyXhUD-Fg47uXg'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea0c0067-4c74-4e38-90bf-c7cdfc3369c8.jpg
 title: WELCOME
 description: Search for Zebbly on YouTube
