@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.8930590462405235
 name: ZebblyZabzYT
+navigation:
+  - name: My YouTube Channel
+    url: 'https://www.youtube.com/channel/UC_5pwZTa9MyXhUD-Fg47uXg'
+    type: external
 title: WELCOME
 description: Search for Zebbly on YouTube
